@@ -6,6 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
+  "bin" : { "greet" : "./bin/greet.js" },
   "keywords": [
     "hello-world"
   ],
